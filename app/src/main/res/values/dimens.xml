@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddinget" />
+    <dimen name="padding" />
+    <dimen name="textSize" />
+    <dimen name="width" />
+    <dimen name="layout_height" />
+    <dimen name="layout_width" />
+    <dimen name="margin" />
+</resources>
